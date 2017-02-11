@@ -6,4 +6,4 @@
 
 This repository contains the paper, poster, images, and 3d modeling files from my
 research and learning project on elliptic curves. I completed this project with James
-Duncan under the guidance of Cara Mullen (PhD) and Professor Alina Cojocaru.
+Duncan under the guidance of Cara Mullen (PhD) and Professor Alina Cojocaru (PhD).
